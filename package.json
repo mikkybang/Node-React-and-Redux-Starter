@@ -1,0 +1,14 @@
+{
+  "name": "node-react-and-redux-starter",
+  "version": "1.0.0",
+  "description": "Node api and React-Redux Starter project",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mikkybang",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^4.1.0"
+  }
+}
